@@ -4,8 +4,8 @@
 ## How to install the startup kit
 
 1. Configure database
-  1) Create database
-  2) Migrate the tables
+  - Create database
+  - Migrate the tables
      For now, it has only one table called users
 
 2. How to run the project
