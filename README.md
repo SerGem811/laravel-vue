@@ -14,6 +14,6 @@ composer install
 
 npm install
 
-npm run dev (watch or prou)
+npm run dev (watch or prod)
 
 php artisan serve
